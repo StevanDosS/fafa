@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653247366 source:c:\users\dss\proyectc\proyectone\main.c
+	<stdio.h>
+	<stdlib.h>
+	"proyectOne.h"
+
+1653245180 c:\users\dss\proyectc\proyectone\proyectone.h
+	<stdio.h>
+	<stdlib.h>
+
+1653247366 source:c:\users\dss\proyectc\proyectone\proyectone.c
+	<stdio.h>
+	<stdlib.h>
+	"proyectOne.h"
+
